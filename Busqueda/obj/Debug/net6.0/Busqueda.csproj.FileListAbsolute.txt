@@ -1,0 +1,14 @@
+G:\proyectos c#\Busqueda\Busqueda\bin\Debug\net6.0\Busqueda.exe
+G:\proyectos c#\Busqueda\Busqueda\bin\Debug\net6.0\Busqueda.deps.json
+G:\proyectos c#\Busqueda\Busqueda\bin\Debug\net6.0\Busqueda.runtimeconfig.json
+G:\proyectos c#\Busqueda\Busqueda\bin\Debug\net6.0\Busqueda.dll
+G:\proyectos c#\Busqueda\Busqueda\bin\Debug\net6.0\Busqueda.pdb
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\Busqueda.GeneratedMSBuildEditorConfig.editorconfig
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\Busqueda.AssemblyInfoInputs.cache
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\Busqueda.AssemblyInfo.cs
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\Busqueda.csproj.CoreCompileInputs.cache
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\Busqueda.dll
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\refint\Busqueda.dll
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\Busqueda.pdb
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\Busqueda.genruntimeconfig.cache
+G:\proyectos c#\Busqueda\Busqueda\obj\Debug\net6.0\ref\Busqueda.dll
